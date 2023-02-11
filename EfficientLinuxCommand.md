@@ -1,4 +1,5 @@
-Source: Linux in a Nutshell, 6th Edition https://www.oreilly.com/library/view/linux-in-a/9780596806088/
+Source: Linux in a Nutshell, 6th Edition https://www.oreilly.com/library/view/linux-in-a/9780596806088/     
+Efficient Linux at the Command Line: https://www.oreilly.com/library/view/efficient-linux-at/9781098113391/       
 ## Introduction
 
 ## System and Network Administration Overview
