@@ -8,13 +8,14 @@ Input, Output, and Pipes
 
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/105786517/218282985-ed5e585a-f400-4393-a701-0a9a7fcf29a0.png">
 
+    $ man wc                       # display full documentation
+    $ wc animals.txt               # prints the number of lines, words, and characters in a file
+    $ wc -l animals.txt
+    $ wc -w animals.txt
+    $ wc -c animals.txt
 
-
-
-
-
-
-
+    $ ls -1
+    $ ls -1 | wc -l                # How many files are visible in my current directory?
 
 
 Source: Linux in a Nutshell, 6th Edition https://www.oreilly.com/library/view/linux-in-a/9780596806088/       
