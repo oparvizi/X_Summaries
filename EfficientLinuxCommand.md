@@ -24,7 +24,43 @@ Input, Output, and Pipes
     $ ls                          #
     $ ls | wc -l                  #
     
-    $ head -n3 animals.txt
+    $ head -n3 animals.txt                # Print the first three lines 
+    $ head -n3 animals.txt | wc -w        # Count the number of words in the first three lines
+    $ ls /bin | head -n5                  # list the first five filenames in the /bin directory
+    
+    $ cut -f2 animals.txt                 
+   page 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
     
