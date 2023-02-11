@@ -3,7 +3,8 @@ Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/vie
 Input, Output, and Pipes         
   $ ls -l /bin                   # list a large directory
   $ less myfile                  # displays a file one screenful at a time
-  $ ls -l /bin | less            # Use a pipe to send the output of ls to the input of less:
+  $ ls -l /bin | less            # Use a pipe to send the output of ls to the input of less
+
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/105786517/218282985-ed5e585a-f400-4393-a701-0a9a7fcf29a0.png">
 
 
