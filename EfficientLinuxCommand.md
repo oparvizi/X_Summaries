@@ -16,7 +16,44 @@ Input, Output, and Pipes
 
     $ ls -1
     $ ls -1 | wc -l                # How many files are visible in my current directory?
+    $ wc animals.txt | wc -w | wc
 
+
+    $ ls /bin                     # ls Changes Its Behavior When Redirected
+    $ ls /bin | cat               #
+    $ ls                          #
+    $ ls | wc -l                  #
+    
+    $ head -n3 animals.txt
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 Source: Linux in a Nutshell, 6th Edition https://www.oreilly.com/library/view/linux-in-a/9780596806088/       
 ## Introduction
