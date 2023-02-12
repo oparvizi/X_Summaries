@@ -6,15 +6,7 @@ Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/vie
     $ less myfile                  # displays a file one screenful at a time
     $ ls -l /bin | less            # Use a pipe to send the output of ls to the input of less
 
-<img width="511" alt="image" src="https://user-images.githubusercontent.com/105786517/218282985-ed5e585a-f400-4393-a701-0a9a7fcf29a0.png">
-- Inside the file animals.txt--------------------------------------------------------------
-python  Programming Python      2010  Lutz, Mark      
-snail   SSH, The Secure Shell   2005  Barrett, Daniel      
-alpaca  Intermediate Perl       2012  Schwartz, Randal      
-robin   MySQL High Availability 2014  Bell, Charles      
-horse   Linux in a Nutshell     2009  Siever, Ellen      
-donkey  Cisco IOS in a Nutshell 2005  Boney, James       
-oryx    Writing Word Macros     1999  Roman, Steven      
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/105786517/218282985-ed5e585a-f400-4393-a701-0a9a7fcf29a0.png"><img width="350" alt="image" src="https://user-images.githubusercontent.com/105786517/218336909-ddb5b396-1480-4c80-b937-8493ccf148b9.png">
 
     $ man wc                       # display full documentation-----------------------------
     $ wc animals.txt               # prints the number of lines, words, and characters in a file
