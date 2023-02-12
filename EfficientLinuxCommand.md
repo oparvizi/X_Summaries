@@ -1,6 +1,6 @@
 Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/view/efficient-linux-at/9781098113391/       
 ## Part I. Core Concepts
-<font color="gold">1. Combining Commands</font>   
+1. Combining Commands   
   
     $ ls -l /bin                   # list a large directory---------------------------------
     $ less myfile                  # displays a file one screenful at a time
