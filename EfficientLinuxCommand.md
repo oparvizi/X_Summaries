@@ -73,10 +73,35 @@ Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/vie
     $ md5sum *.jpg | cut -c1-32 | sort | uniq -c | sort -nr | grep -v " 1 "
     $ md5sum *.jpg | grep 146b163929b6533f02e91bdf21cb9563
     $ md5sum *.jpg | grep 146b163929b6533f02e91bdf21cb9563 | cut -c35-
-    
   2. Introducing the Shell
   
+    $ ls *.py
+    $ ls data.py main.py user_interface.py
+    
+   Pattern Matching for Filenames
+    
+    $ grep Linux chapter*
+    $ grep Linux chapter?
+    $ grep Linux chapter??
+    $ grep Linux chapter[12345]
+    $ grep Linux chapter[1-5]
+    $ grep Linux chapter*[02468]
+    
+    $ ls -1 /etc/*.conf                    # list all files in the directory /etc with names ending in .conf using a pattern
+    $ cd P*
+    $ ls *.doc
+  Evaluating Variables
   
+    $ printenv HOME                        # print the values of HOME and USER on stdout
+    $ printenv USER
+    $ echo My name is $USER and my files are in $HOME           # Evaluating variables
+    $ echo ch*ter9                                              # Evaluating a pattern
+  Where Variables Come From
+  
+    $ work=$HOME/Projects
+    
+    
+    page 23
   
   
   
