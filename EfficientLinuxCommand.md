@@ -8,13 +8,13 @@ Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/vie
 
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/105786517/218282985-ed5e585a-f400-4393-a701-0a9a7fcf29a0.png">
 - Inside the file animals.txt--------------------------------------------------------------
-python  Programming Python      2010  Lutz, Mark
-snail   SSH, The Secure Shell   2005  Barrett, Daniel
-alpaca  Intermediate Perl       2012  Schwartz, Randal
-robin   MySQL High Availability 2014  Bell, Charles
-horse   Linux in a Nutshell     2009  Siever, Ellen
-donkey  Cisco IOS in a Nutshell 2005  Boney, James
-oryx    Writing Word Macros     1999  Roman, Steven
+python  Programming Python      2010  Lutz, Mark      
+snail   SSH, The Secure Shell   2005  Barrett, Daniel      
+alpaca  Intermediate Perl       2012  Schwartz, Randal      
+robin   MySQL High Availability 2014  Bell, Charles      
+horse   Linux in a Nutshell     2009  Siever, Ellen      
+donkey  Cisco IOS in a Nutshell 2005  Boney, James       
+oryx    Writing Word Macros     1999  Roman, Steven      
 
     $ man wc                       # display full documentation-----------------------------
     $ wc animals.txt               # prints the number of lines, words, and characters in a file
