@@ -7,3 +7,4 @@ Some useful summaries
     LinuxKernel.md:                                     x
     Mathematics for Machine Learning.pdf:               PDF of book
     WERKZEUGE DER MUSTERERKENNU:                        Machine learning script in German language
+    animals.txt                                         File needed for EfficientLinuxCommand.md
