@@ -6,7 +6,7 @@ Source: Efficient Linux at the Command Line: https://www.oreilly.com/library/vie
     $ less myfile                  # displays a file one screenful at a time       
     $ ls -l /bin | less            # Use a pipe to send the output of ls to the input of less             
 
-<img width="308" alt="image" src="https://user-images.githubusercontent.com/105786517/218336990-3991db00-b13a-4694-b3cd-15cc7128cbb4.png"><img width="350" alt="image" src="https://user-images.githubusercontent.com/105786517/218336909-ddb5b396-1480-4c80-b937-8493ccf148b9.png">
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/105786517/218336990-3991db00-b13a-4694-b3cd-15cc7128cbb4.png">
 
     $ man wc                       # display full documentation-----------------------------
     $ wc animals.txt               # prints the number of lines, words, and characters in a file
