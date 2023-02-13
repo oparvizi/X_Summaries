@@ -338,6 +338,52 @@ Emacs- or Vim-Style Command-Line Editing
   4. Cruising the Filesystem
 
     $ cd /usr/share/lib/etc/bin
+    $ pwd
+    $ cd $HOME/Work
+    $ cd ~/Work
+    $ echo $HOME ~
+    $ echo ~jones
+    $ cd /usr
+    $ cd sha<Tab>                                           # visit the subdirectory share.de
+    
+    $ cd share/
+    $ cd s<Tab>
+    $ cd s<Tab><Tab>
+    $ cd sh<Tab>
+    $ cd share/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
