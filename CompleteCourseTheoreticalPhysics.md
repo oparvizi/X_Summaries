@@ -74,22 +74,19 @@ scalar product between the vector operator ∇ and the vector a. With this we ha
 The concept of a field-line tube:       
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/105786517/219360202-a9ce95e4-2235-47af-8681-2afe25cebde6.png">      
 1.1.7 Curl (Vortex Density)   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The curl (rotation) of the vector field a (r) is the vector field
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219373225-9c7d4438-fd4b-4338-a05a-5b5deddd3bca.png">
 1.1.8 Rewriting Products. Laplace Operator   
+
+	∇(φ ψ) = φ ∇ψ + ψ ∇φ ,
+	∇ · (ψ a) = ψ ∇ · a + a · ∇ψ ,
+	∇ × (ψ a) = ψ ∇ × a − a × ∇ψ ,
+	∇ · (a × b) = b · (∇ × a) − a · (∇ × b) ,
+	∇ × (a × b) = (b · ∇) a − b (∇ · a) − (a · ∇) b + a (∇ · b) ,
+	∇ (a · b) = (b · ∇) a + b × (∇ × a) + (a · ∇) b + a × (∇ × b) .
+
+
+
 1.1.9 Integral Theorems for Vector Expressions    
 1.1.10 Delta Function    
 1.1.11 Fourier Transform   
