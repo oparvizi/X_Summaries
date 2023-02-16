@@ -1,12 +1,12 @@
 Contents
-1 Basics of Experience 
-1.1 Vector Analysis 
-1.1.1 Space and Time 
-1.1.2 Vector Algebra 
-1.1.3 Trajectories
-1.1.4 Vector Fields
-1.1.5 Gradient (Slope Density)
-1.1.6 Divergence (Source Density)
+1 Basics of Experience   
+1.1 Vector Analysis    
+1.1.1 Space and Time    
+1.1.2 Vector Algebra  
+1.1.3 Trajectories    
+1.1.4 Vector Fields    
+1.1.5 Gradient (Slope Density)   
+1.1.6 Divergence (Source Density)    
 1.1.7 Curl (Vortex Density). . . . . . . . . . . . . . . . . . . . . . . . . . . 13
 1.1.8 Rewriting Products. Laplace Operator . . . . . . . . . . . . . . . 14
 1.1.9 Integral Theorems for Vector Expressions . . . . . . . . . . . . 16
