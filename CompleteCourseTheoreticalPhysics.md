@@ -32,10 +32,18 @@ The scalar product (inner product) a · b
     is called the (scalar) triple product of the three vectors. It is positive or negative, if a, b, and c form a right- or left-handed triad, respectively. Its value gives the volume of the parallelepiped with edges a, b, and c. In particular, ex · (ey × ez) = 1. 
 1.1.3 Trajectories  
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/105786517/219352103-ddf672a9-7513-4960-8126-be5fafb5ebf9.png">
+If a vector depends upon a parameter, then we speak of a vector function. The vector function a (t) is continuous at t0, if it tends to a (t0) for t → t0. With the same limit t → t0, the vector differential da and the first derivative da/dt is introduced.
 
-
-
-
+    quantities may be formed for every Cartesian component
+              d(a + b) = da + db                  d(αa) = α da + a dα 
+              d(a · b) = a · db + b · da          d(a × b) = a × db − b × da .
+     Here eT has the direction of v:         
+              tangent vector eT ≡ dr/ds = v/v .
+              path curvature κ ≡ |deT/ds|= |d^2r/d^s2|
+              curvature radius R ≡ 1/κ
+              normal vector eN ≡ R deT/ds = R d2r/ds2 .
+			  binormal vector eB ≡ eT × eN
+ <img width="388" alt="image" src="https://user-images.githubusercontent.com/105786517/219354406-8ec6f76c-d24c-485d-84cf-41aa2fc32f0b.png">
 
 
 
