@@ -2,50 +2,36 @@ Source: https://link.springer.com/book/10.1007/978-3-030-04360-5
 ## A Complete Course on Theoretical Physics From Classical Mechanics to Advanced Quantum Statistics:
 1 Basics of Experience  
     
-    Vector Algebra
+1.1 Vector Analysis
+
               a + b = b + a                  (a + b) + c = a + (b + c) .
-   <img width="259" alt="image" src="https://user-images.githubusercontent.com/105786517/219346436-e8902029-8165-4fc5-8f28-c3f4341c07bb.png"><img width="257" alt="image" src="https://user-images.githubusercontent.com/105786517/219346543-9f63ba8a-9e6a-4204-9ea2-432e67e91505.png">
+   <img width="259" alt="image" src="https://user-images.githubusercontent.com/105786517/219346436-e8902029-8165-4fc5-8f28-c3f4341c07bb.png"><img width="257" alt="image" src="https://user-images.githubusercontent.com/105786517/219346543-9f63ba8a-9e6a-4204-9ea2-432e67e91505.png">    
 The scalar product (inner product) a · b    
     
-              a · b ≡ a b cos φab .
+              a · b ≡ a b cos φab .                              -------------------------------------------
               a · b = b · a    and    a · b = 0 ⇐⇒ a ⊥ b or a = 0 or b = 0 .
-    
-    If the two vectors are oriented perpendicularly to each other (a ⊥ b), then they are also said to be orthogonal. Obviously, a · a = a2 holds. Vectors with value 1 are called unit vectors. Here they are denoted by e. Given three Cartesian, i.e., pairwise perpendicular unit vectors ex , ey , ez , all vectors can be decomposed in terms of these:
-              a = ex ax + ey ay + ez az ,
-    with the Cartesian components
-              ax ≡ ex · a , ay ≡ ey · a , az ≡ ez · a .
-
-              a · b = ax bx + ay by + az bz .
-              a · (b + c) = a · b + a · c.
  The vector product (outer product) a × b
      
-              |a × b| = a b sin φab .
+              |a × b| = a b sin φab .                            -------------------------------------------
               a × b = −b × a , a × (b + c) = a × b + a × c ,
     and
                a × b = 0 ⇐⇒ a || b or a = 0 or b = 0 .
-    Using a right-handed Cartesian coordinate system, we have
-    ex × ey = ez (and cyclic permutations ey × ez = ex, ...) ,
-    and also ex × ex = 0, etc., whence
+ Using a right-handed Cartesian coordinate system, we have
+    
+    ex × ey = ez (and cyclic permutations ey × ez = ex, ...) , and also ex × ex = 0, etc., whence
               a × b = ex (ay bz − az by) + ey (az bx − ax bz) + ez (ax by − ay bx) .
     This implies
               a × (b × c) = (c × b) × a = b c · a − c a · b .
 
-    (This decomposition also follows without calculation because the product depends
-    linearly upon its three factors, lies in the plane spanned by b and c, vanishes for
-    b ∝ c, and points in the direction of b for c = a ⊥ b.) According to the last equation,
-    every vector a can be decomposed into its component along a unit vector e and its
-    component perpendicular to it:
+    (This decomposition also follows without calculation because the product depends linearly upon its three factors, lies in the plane spanned by b and c, vanishes for b ∝ c, and points in the direction of b for c = a ⊥ b.) According to the last equation, every vector a can be decomposed into its component along a unit vector e and its component perpendicular to it:
               a = e e · a − e × (e × a) .
     In addition, it satisfies the Jacobi identity (note the cyclic permutation)
-              a × (b × c) + b × (c × a) + c × (a × b) = 0 .
+              a × (b × c) + b × (c × a) + c × (a × b) = 0 .       -------------------------------------------
     The scalar product of a vector with a vector product, viz.,
               a · (b × c) = b · (c × a) = c · (a × b) ,
-    is called the (scalar) triple product of the three vectors. It is positive or negative, if
-    a, b, and c form a right- or left-handed triad, respectively. Its value gives the volume
-    of the parallelepiped with edges a, b, and c. In particular, ex · (ey × ez) = 1.
-The transposed matrix A just introduced has elements Aik = Aki ,
-
-    
+    is called the (scalar) triple product of the three vectors. It is positive or negative, if a, b, and c form a right- or left-handed triad, respectively. Its value gives the volume of the parallelepiped with edges a, b, and c. In particular, ex · (ey × ez) = 1. 
+1.1.3 Trajectories  
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/105786517/219352103-ddf672a9-7513-4960-8126-be5fafb5ebf9.png">
 
 
 
@@ -55,10 +41,18 @@ The transposed matrix A just introduced has elements Aik = Aki ,
 
 
 
-1.1 Vector Analysis    
-1.1.1 Space and Time    
-1.1.2 Vector Algebra  
-1.1.3 Trajectories    
+
+
+
+
+
+
+
+
+
+
+
+
 1.1.4 Vector Fields    
 1.1.5 Gradient (Slope Density)   
 1.1.6 Divergence (Source Density)    
