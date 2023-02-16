@@ -59,7 +59,25 @@ In Cartesian coordinates, we thus have
 <img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219357834-8ca1a104-9f66-45e3-bfe8-c898fdf46c98.png">
 The gradient is also obtained as a limit of a vectorial integral:
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/105786517/219359867-ec9e55d5-95be-41a7-8d33-5d878dab0ef4.png"><img width="386" alt="image" src="https://user-images.githubusercontent.com/105786517/219359941-cf9ff654-2151-4154-988e-8595cd12b7dc.png">
-1.1.6 Divergence (Source Density)    
+1.1.6 Divergence (Source Density)   
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/105786517/219360202-a9ce95e4-2235-47af-8681-2afe25cebde6.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.1.7 Curl (Vortex Density)    
 1.1.8 Rewriting Products. Laplace Operator   
 1.1.9 Integral Theorems for Vector Expressions    
