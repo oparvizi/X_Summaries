@@ -299,8 +299,9 @@ Current
 4.2.7 Uncertainty   
 4.2.8 Field Operators    
 4.2.9 Phase Operators and Wave–Particle Dualism    
-<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219387537-c2e83299-3ef6-43b9-8b38-3f8e4d6b1a04.png">         
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219387537-c2e83299-3ef6-43b9-8b38-3f8e4d6b1a04.png"><img width="294" alt="image" src="https://user-images.githubusercontent.com/105786517/219389390-50da8a51-d7f2-4acc-b44c-c31ac77f464c.png">          
 4.2.10 Doublets and Pauli Operators       
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219390125-7d61ba0c-003a-4953-9ed5-30b051a66257.png">      
 4.2.11 Density Operator. Pure States and Mixtures           
 4.2.12 Space Inversion and Time Reversal          
 4.2.13 Summary: Operators and Observables         
@@ -309,54 +310,63 @@ Current
 4.3.2 Position and Momentum Representations.      
 4.3.3 The Probability Amplitude hr j Pi             
 4.3.4 Wave Functions           
-4.3.5 Wigner Function         
+4.3.5 Wigner Function     
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/105786517/219390312-7697dd39-5c1d-4b73-9fde-d60cc348864e.png">        
 4.3.6 Spin           
 4.3.7 Correspondence Principle         
-Contents xix
-4.3.8 Angular Momentum Operator              
-4.3.9 Spherical Harmonics           
+4.3.8 Angular Momentum Operator   
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219390488-39b404a0-4cf1-466b-8bb8-6fa86d51d788.png">        
+4.3.9 Spherical Harmonics     
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219390655-2fbb3fc8-23eb-4307-9d94-e651e7fcbead.png">      
 4.3.10 Coupling of Angular Momenta         
 4.3.11 Summary: Correspondence Principle       
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219390896-4e78772b-a616-4cea-8b31-5fdbe08c1612.png">
 4.4 Time Dependence          
 4.4.1 Heisenberg Equation and the Ehrenfest Theorem    
 4.4.2 Time Dependence: Heisenberg and Schrödinger Pictures     
 4.4.3 Time Dependence of the Density Operator            
-4.4.4 Time-Dependent Interaction and Dirac Picture          
+4.4.4 Time-Dependent Interaction and Dirac Picture    
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219391052-93b5c36a-758a-4473-95df-38c8859f3515.png">      
 4.4.5 Current Density       
 4.4.6 Summary: Time Dependence        
 4.5 Time-Independent Schrödinger Equation                   
 4.5.1 Eigenvalue Equation for the Energy           
 4.5.2 Reduction to Ordinary Differential Equations      
-4.5.3 Free Particles and the Box Potential        
+4.5.3 Free Particles and the Box Potential      
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219391202-501b6cc3-e416-4688-88ae-65b8b8a8b07b.png"><img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219391263-69836ab4-d747-4d84-b5cb-bb1ad5c5e34b.png"><img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219391310-1a827152-4d4e-44cc-9ef2-a224caf703d6.png">      
 4.5.4 Harmonic Oscillations      
-4.5.5 Hydrogen Atom       
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219391434-8285418b-f436-4ca6-ad7b-19572024a7da.png">    
+4.5.5 Hydrogen Atom   
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219391562-0f68d372-38c5-4e42-bf72-fcf15d6da4f3.png"><img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219391694-2a58e23d-c738-461c-b918-6b4f90d7579a.png">          
 4.5.6 Time-Independent Perturbation Theory          
 4.5.7 Variational Method        
-4.5.8 Level Splitting         
+4.5.8 Level Splitting          
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219391815-f603a153-f2f1-43e8-a1f4-36745437a576.png">    
 4.5.9 Summary: Time-Independent Schrödinger Equation          
 4.6 Dissipation and Quantum Theory       
 4.6.1 Perturbation Theory        
 4.6.2 Coupling to the Environment        
 4.6.3 Markov Approximation        
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219392025-39dbca7c-fd1a-4e68-8b95-4cb34a17dad9.png">   
 4.6.4 Deriving the Rate Equation and Fermi’s Golden Rule        
-4.6.5 Rate Equation for Degeneracy. Transitions Between Multiplets       
-4.6.6 Damped Linear Harmonic Oscillations     
+4.6.5 Rate Equation for Degeneracy. Transitions Between Multiplets        
+4.6.6 Damped Linear Harmonic Oscillations    
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219392172-146373ef-49ea-4b31-a4ed-7c726448cc44.png">        
 4.6.7 Summary: Dissipation and Quantum Theory    
-Problems       
-List of Symbols     
-References        
-Suggestions for Textbooks and Further Reading       
 5 Quantum Mechanics II        
 5.1 Scattering Theory            
-5.1.1 Introduction          
+5.1.1 Introduction     
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219392527-a60bc95b-afe9-4ece-9e63-7248d9b2a896.png"><img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219392632-65c9f0be-4c93-475b-b96c-f5d0cf47d0b1.png">     
 5.1.2 Basics             
 5.1.3 Time Shift Operators in Perturbation Theory         
-5.1.4 Time-Dependent Green Functions (Propagators).       
+5.1.4 Time-Dependent Green Functions (Propagators)    
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/105786517/219392766-fa279d31-4fc7-4375-8bcd-084f5808734e.png">      
 5.1.5 Energy-Dependent Green Functions (Propagators) and Resolvents.  
 xx Contents
-5.1.6 Representations of the Resolvents
-and the Interactions           
-5.1.7 Lippmann–Schwinger Equations        
+5.1.6 Representations of the Resolvents and the Interactions     
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219392905-77299c9c-696b-49d1-a469-f8e79b898118.png">        
+5.1.7 Lippmann–Schwinger Equations    
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219393026-80fb24c7-98a8-4307-9aaa-40f052d96557.png">       
 5.1.8 Möller’s Wave Operators       
 5.1.9 Scattering and Transition Operators         
 5.1.10 The Wave Function hr j k iþ for Large Distances r       
@@ -367,7 +377,8 @@ and the Interactions
 5.2.2 Scattering Phases           
 5.2.3 Scattering of Charged Particles          
 5.2.4 Effective Hamilton Operator in the Feshbach Theory       
-5.2.5 Separable Interactions and Resonances           
+5.2.5 Separable Interactions and Resonances      
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219393178-1e802ecd-baff-4eba-b242-8599f811670b.png">        
 5.2.6 Breit–Wigner Formula       
 5.2.7 Averaging over the Energy         
 5.2.8 Special Features of Three-Body Problems            
@@ -376,7 +387,8 @@ and the Interactions
 5.2.11 Summary: Two- and Three-Body Scattering Problems        
 5.3 Many-Body Systems           
 5.3.1 One- and Many-Body States        
-5.3.2 Exchange Symmetry         
+5.3.2 Exchange Symmetry    
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219393418-165e0736-9794-4eb3-8f14-a07510742aee.png">     
 5.3.3 Symmetric and Antisymmetric States          
 5.3.4 Creation and Annihilation Operators for Fermions      
 5.3.5 Creation and Annihilation Operators for Bosons      
@@ -388,22 +400,26 @@ and the Interactions
 5.3.11 Wave–Particle Dualism          
 5.3.12 Summary: Many-Body Systems          
 5.4 Fermions                     
-5.4.1 Fermi Gas in the Ground State              
+5.4.1 Fermi Gas in the Ground State     
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219393597-38c6ff4f-ef9d-44bb-a5b0-c6d1b41c0afa.png">      
 5.4.2 Hartree–Fock Equations           
 5.4.3 Rest Interaction and Pair Force           
 5.4.4 Quasi-Particles in the BCS Formalism      
-Contents xxi
-5.4.5 Hartree–Fock–Bogoliubov Equations         
+5.4.5 Hartree–Fock–Bogoliubov Equations  
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219393754-07bf772d-df96-4c20-9ded-30928ab904a3.png">       
 5.4.6 Hole States        
-5.4.7 Summary: Fermions           
+5.4.7 Summary: Fermions     
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219393981-cf4b109d-c136-474f-88cc-1b639b0f4740.png">     
 5.5 Photons        
 5.5.1 Preparation for the Quantization of Electromagnetic Fields           
 5.5.2 Quantization of Photons            
 5.5.3 Glauber States                  
-5.5.4 Quenched States           
+5.5.4 Quenched States       
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219394105-7e9b5638-87ae-42b1-b372-b7b6ae9cc1db.png"><img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219394251-9bbe11fb-b455-4c44-9103-539d6564156e.png">      
 5.5.5 Expansion in Terms of Glauber States              
 5.5.6 Density Operator in the Glauber Basis              
-5.5.7 Atom in a Light Field             
+5.5.7 Atom in a Light Field    
+<img width="291" alt="image" src="https://user-images.githubusercontent.com/105786517/219394396-73be7b22-d14e-4faf-91eb-7037e09ab08a.png"><img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219394536-c6d2641b-b1a9-48ad-ba57-37eff5e618e5.png"><img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219394601-8292fae0-e902-4d06-9da4-6d2cc430f28d.png">           
 5.5.8 Summary: Photons           
 5.6 Dirac Equation          
 5.6.1 Relativistic Invariance     
@@ -413,76 +429,92 @@ Contents xxi
 5.6.5 Behavior of the Dirac Equation Under Lorentz Transformations          
 5.6.6 Adjoint Spinors and Bilinear Covariants         
 5.6.7 Space Inversion, Time Reversal, and Charge Conjugation          
-5.6.8 Dirac Equation and Klein–Gordon Equation           
-5.6.9 Energy Determination for Special Potentials              
+5.6.8 Dirac Equation and Klein–Gordon Equation    
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219394790-d2a2b454-3fd8-4171-b913-fc30b55856c2.png">          
+5.6.9 Energy Determination for Special Potentials   
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219394920-d20d5bef-0da6-449d-93f5-5e528f384064.png">       
 5.6.10 Difficulties with the Dirac Theory       
-List of Symbols          
-References          
-Suggestions for Textbooks and Further Reading        
 6 Thermodynamics and Statistics         
 6.1 Statistics            
 6.1.1 Introduction           
 6.1.2 Statistical Ensembles and the Notion of Probability        
-6.1.3 Binomial Distribution             
-6.1.4 Gauss and Poisson Distributions          
+6.1.3 Binomial Distribution         
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219395049-4ea941f2-8ce0-4760-b7f9-137c7069e07c.png">      
+6.1.4 Gauss and Poisson Distributions    
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219395120-cdcd07ee-ae9b-44cf-9018-90b6ccc07b7d.png">      
 6.1.5 Correlations and Partial Systems       
-6.1.6 Information Entropy            
-6.1.7 Classical Statistics and Phase Space Cells       
+6.1.6 Information Entropy     
+<img width="289" alt="image" src="https://user-images.githubusercontent.com/105786517/219395220-398257a4-efb6-41af-82b9-9b1f78d556b8.png"><img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219395264-c3411930-abb0-414a-8ab5-81b7c9c6c063.png">           
+6.1.7 Classical Statistics and Phase Space Cells    
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219395383-ce8affa6-356c-45c9-a762-656a7cfa8b37.png">        
 6.1.8 Summary: Statistics            
 6.2 Entropy Theorem         
 6.2.1 Entropy Law and Rate Equation      
-6.2.2 Irreversible Changes of State and Relaxation-Time Approximation          
-xxii Contents
+6.2.2 Irreversible Changes of State and Relaxation-Time Approximation    
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/105786517/219395516-8f5ecee2-49fb-45c4-98b2-3769e5a68476.png">      
 6.2.3 Liouville and Collision-Free Boltzmann Equation         
 6.2.4 Boltzmann Equation      
 6.2.5 Proof of the Entropy Law Using the Boltzmann Equation        
-6.2.6 Molecular Motion and Diffusion            
-6.2.7 Langevin Equation          
+6.2.6 Molecular Motion and Diffusion    
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/105786517/219395629-1ec8bb7d-d95e-4c9e-a06e-a9afe5e5ea1f.png"><img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219395719-b7e64fa7-0b65-4288-9a0a-a799ea576298.png">        
+6.2.7 Langevin Equation      
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219395841-dde7b4ae-eef4-4b0f-89c4-ec3d682cecf2.png">       
 6.2.8 Generalized Langevin Equation and the Fluctuation–Dissipation Theorem       
-6.2.9 Fokker–Planck Equation       
+6.2.9 Fokker–Planck Equation  
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/105786517/219395946-1e75c3bf-4a39-4fe2-967b-5155ef24a0d7.png">       
 6.2.10 Summary: Entropy Law        
 6.3 Equilibrium Distribution            
-6.3.1 Maxwell Distribution     
+6.3.1 Maxwell Distribution   
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219396033-e1227b25-6798-410e-84df-edeacc815759.png">      
 6.3.2 Thermal Equilibrium         
 6.3.3 Micro-canonical Ensemble       
-6.3.4 Density of States in the Single-Particle Model    
+6.3.4 Density of States in the Single-Particle Model   
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219396148-bdd02b4e-e5db-45b6-b05f-95770eee2335.png"><img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219396215-04d12550-291e-4452-af73-d0728cdc7416.png">         
 6.3.5 Mean Values and Entropy Maximum           
-6.3.6 Canonical and Grand Canonical Ensembles        
+6.3.6 Canonical and Grand Canonical Ensembles    
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219396340-a58b7a57-aefb-4ce5-bb02-62941db9e372.png"><img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219396424-663d3edb-e375-4966-b7a8-23a1b2bfb8ab.png">                
 6.3.7 Exchange Equilibria        
 6.3.8 Temperature, Pressure, and Chemical Potential        
 6.3.9 Summary: Equilibrium Distributions         
 6.4 General Theorems of Thermodynamics          
 6.4.1 The Basic Relation of Thermodynamics           
 6.4.2 Mechanical Work and Heat        
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219396537-2477eaa0-3d54-4105-9026-7c5eb9b500a6.png">       
 6.4.3 State Variables and Complete Differentials     
 6.4.4 Thermodynamical Potentials and Legendre Transformations      
 6.4.5 Maxwell’s Integrability Conditions and Thermal Coefficients       
 6.4.6 Homogeneous Systems and the Gibbs–Duhem Relation.   
-6.4.7 Phase Transitions and the Clausius–Clapeyron Equation    
+6.4.7 Phase Transitions and the Clausius–Clapeyron Equation     
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219396666-7521ef49-651b-41c5-ac5d-40489b6c5344.png">       
 6.4.8 Enthalpy and Free Energy as State Variables    
 6.4.10 Summary: General Theorems of Thermodynamics       
 6.5 Results for the Single-Particle Model      
 6.5.1 Identical Particles and Symmetry Conditions       
 6.5.2 Partition Functions in Quantum Statistics.       
-6.5.3 Occupation of One-Particle States        
+6.5.3 Occupation of One-Particle States   
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219396891-d808fa61-8ecf-4ee0-bddc-cfa80d7ffc3c.png">       
 6.5.4 Ideal Gases       
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219396988-2d242204-6ecc-43ec-8c1d-8dbf9509e55e.png">        
 6.5.5 Mixing Entropy and the Law of Mass Action      
-6.5.6 Degenerate Fermi Gas and Conduction Electrons
-in Metals      
-Contents xxiii
-6.5.7 Electromagnetic Radiation in a Cavity        
+6.5.6 Degenerate Fermi Gas and Conduction Electrons in Metals     
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219397188-1d965b37-6969-479f-b480-b5c24aef6ba9.png"><img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219397275-58e3bd18-caf9-426f-beb5-aac4276f8c98.png"><img width="291" alt="image" src="https://user-images.githubusercontent.com/105786517/219397492-61efbaee-1469-4017-b3ce-394f3b0eae25.png">        
+6.5.7 Electromagnetic Radiation in a Cavity     
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219397599-711eea09-6481-41c7-a982-33d44e2aaabc.png">           
 6.5.8 Lattice Vibrations      
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/105786517/219397748-9141b631-e426-4eba-8db2-74e7db95040e.png">      
 6.5.9 Summary: Results for the Single-Particle Model         
 6.6 Phase Transitions         
-6.6.1 Van der Waals Equation      
+6.6.1 Van der Waals Equation  
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219397878-d990d338-0f5e-40df-8d9c-24c2929ec467.png">     
 6.6.2 Conclusions Regarding the van der Waals Equation    
 6.6.3 Critical Behavior       
-6.6.4 Paramagnetism     
+6.6.4 Paramagnetism    
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/105786517/219397984-d8529de2-656d-48e8-bf35-942f32c9a61e.png">      
 6.6.5 Ferromagnetism    
 6.6.6 Bose–Einstein Condensation   
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/105786517/219398117-231ec8b0-b124-4cc2-83fc-2b0548d94d3c.png"><img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219398222-a38c67f7-b058-404c-99ac-e51ad34eab8a.png">       
 6.6.7 Summary: Phase Transitions      
 Problems        
-List of Symbols      
-References     
-Suggestions for Textbooks and Further Reading     
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219398408-4fc89509-c493-45a3-9a7b-a617eb158a22.png">      
 Appendix A: Important Constants   
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219398637-cd5e6394-3faa-443c-aeac-f1149cef9d0c.png"><img width="292" alt="image" src="https://user-images.githubusercontent.com/105786517/219398734-46a29d65-39d2-41e4-bc1b-a7fa9d161110.png">       
