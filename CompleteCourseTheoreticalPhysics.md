@@ -42,8 +42,25 @@ If a vector depends upon a parameter, then we speak of a vector function. The ve
               path curvature κ ≡ |deT/ds|= |d^2r/d^s2|
               curvature radius R ≡ 1/κ
               normal vector eN ≡ R deT/ds = R d2r/ds2 .
-			  binormal vector eB ≡ eT × eN
+	      binormal vector eB ≡ eT × eN
  <img width="388" alt="image" src="https://user-images.githubusercontent.com/105786517/219354406-8ec6f76c-d24c-485d-84cf-41aa2fc32f0b.png">
+1.1.4 Vector Fields  
+   If a vector is associated with each position, we speak of a vector field
+
+	Instead of drawing a vector field with arrows at many positions, it is often visualized by a set of field lines: at every point of a field line the tangent  points in the direction of the vector field. Thus 
+	      a || dr and a × dr = 0.
+1.1.5 Gradient (Slope Density)  
+   The gradient of a scalar function ψ(r) is the vector field 
+   
+   		grad ψ ≡ ∇ψ , with ∇ψ · dr ≡ dψ ≡ ψ(r + dr) − ψ(r) .
+In Cartesian coordinates, we thus have
+
+		∇ψ = ex ∂ψ/∂x + ey ∂ψ/∂y + ez ∂ψ/∂z = (ex ∂/∂x + ey ∂/∂y + ez ∂/∂z)ψ .
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219357834-8ca1a104-9f66-45e3-bfe8-c898fdf46c98.png">
+The gradient is also obtained as a limit of a vectorial integral:
+![image](https://user-images.githubusercontent.com/105786517/219359505-9e947c21-8d6d-44b4-a0c2-e269776b4f95.png)
+
+		
 
 
 
@@ -61,8 +78,7 @@ If a vector depends upon a parameter, then we speak of a vector function. The ve
 
 
 
-1.1.4 Vector Fields    
-1.1.5 Gradient (Slope Density)   
+
 1.1.6 Divergence (Source Density)    
 1.1.7 Curl (Vortex Density)    
 1.1.8 Rewriting Products. Laplace Operator   
