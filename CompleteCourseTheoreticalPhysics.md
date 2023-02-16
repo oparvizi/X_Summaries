@@ -72,7 +72,7 @@ scalar product between the vector operator ∇ and the vector a. With this we ha
 		
 		integral dV ∇ · a = integral df · a 
 The concept of a field-line tube:
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/105786517/219360202-a9ce95e4-2235-47af-8681-2afe25cebde6.png">
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/105786517/219360202-a9ce95e4-2235-47af-8681-2afe25cebde6.png">      
 1.1.7 Curl (Vortex Density)   
 
 
