@@ -112,7 +112,7 @@ The concept of a field-line tube:
 1.3.1 Introduction   
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/105786517/219376507-632afbde-e9fc-41eb-9b5b-b284819871f2.png">      
 1.3.2 Mean Value and Average Error            
-1.3.3 Error Distribution
+1.3.3 Error Distribution    
 <img width="290" alt="image" src="https://user-images.githubusercontent.com/105786517/219376694-635f8dbc-47e5-4c14-9bb7-05a69427d9a9.png">       
 1.3.4 Error Propagation               
 1.3.5 Finite Measurement Series and Their Average Error             
