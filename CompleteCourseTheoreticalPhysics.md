@@ -4,8 +4,8 @@ Source: https://link.springer.com/book/10.1007/978-3-030-04360-5
     
     Vector Algebra
               a + b = b + a                  (a + b) + c = a + (b + c) .
-    <img width="259" alt="image" src="https://user-images.githubusercontent.com/105786517/219346436-e8902029-8165-4fc5-8f28-c3f4341c07bb.png">
-    <img width="257" alt="image" src="https://user-images.githubusercontent.com/105786517/219346543-9f63ba8a-9e6a-4204-9ea2-432e67e91505.png">
+   <img width="259" alt="image" src="https://user-images.githubusercontent.com/105786517/219346436-e8902029-8165-4fc5-8f28-c3f4341c07bb.png">
+   <img width="257" alt="image" src="https://user-images.githubusercontent.com/105786517/219346543-9f63ba8a-9e6a-4204-9ea2-432e67e91505.png">
 The scalar product (inner product) a · b    
     
               a · b ≡ a b cos φab .
