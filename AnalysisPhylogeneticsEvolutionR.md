@@ -77,7 +77,8 @@ Molecular Sequences
     library(rgl)
     points3d(bdna$atom$X, bdna$atom$Y, bdna$atom$Z)
 Allelic Data    
-    
+ 
+ page 42
     
     
     
